@@ -1,0 +1,34 @@
+enhancement:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**"
+      - all-globs-to-all-files:
+          - "!**/*.md"
+      - all-globs-to-all-files:
+          - "!assets/**"
+      - all-globs-to-all-files:
+          - "!tests/**"
+      - all-globs-to-all-files:
+          - "!addons/**"
+      - all-globs-to-all-files:
+          - "!.github/**"
+assets:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "assets/**"
+tests:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "tests/**"
+addons:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "addons/**"
+devops:
+  - changed-files:
+      - any-glob-to-any-file:
+          - ".github/**"
+documentation:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/*.md"
