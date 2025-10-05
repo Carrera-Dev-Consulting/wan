@@ -1,6 +1,6 @@
-# Welcome to Zombie Nom Nom 2D contributing guide <!-- omit in toc -->
+# Welcome to Wan contributing guide <!-- omit in toc -->
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [Zombie NomNom Deployment!!](https://consulting.gxldcptrick.dev/zombie-nomnom-2d/) :sparkles:.
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [Wan Deployment!!](https://consulting.gxldcptrick.dev/wan/) :sparkles:.
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
@@ -21,19 +21,19 @@ To get an overview of the project, read the [README](../README.md) file. Here ar
 ## Getting started
 
 We accept any kinds of contributions so long as they met our standards and code style!! ✨
-If you would like to help but don't have an issue you would like addressed our [Issues Tab](https://github.com/Carrera-Dev-Consulting/zombie-nomnom-2d/issues) 
+If you would like to help but don't have an issue you would like addressed our [Issues Tab](https://github.com/Carrera-Dev-Consulting/wan/issues) 
 may have some tasks that you can help with and we would greately appreciate!!
 
 ### Issues
 
 #### Create a new issue
 
-If you spot a problem with, Please go Search an issue in the [Issues Tab](https://github.com/Carrera-Dev-Consulting/zombie-nomnom-2d/issues).
-If a related issue doesn't exist, you can open a new issue using a relevant [Issue Form](https://github.com/Carrera-Dev-Consulting/zombie-nomnom-2d/issues/new/choose).
+If you spot a problem with, Please go Search an issue in the [Issues Tab](https://github.com/Carrera-Dev-Consulting/wan/issues).
+If a related issue doesn't exist, you can open a new issue using a relevant [Issue Form](https://github.com/Carrera-Dev-Consulting/wan/issues/new/choose).
 
 #### Solve an issue
 
-Scan through our [existing issues](https://github.com/Carrera-Dev-Consulting/zombie-nomnom-2d/issues) to find one that interests you.
+Scan through our [existing issues](https://github.com/Carrera-Dev-Consulting/wan/issues) to find one that interests you.
 
 You can narrow down the search using `labels` as filters. 
 
@@ -70,7 +70,7 @@ When you're finished with the changes, create a pull request, also known as a PR
 - Fill in the PR template with relevant information about the changes you added.
 - If you are fixing an open issue please write the #issue_number into the body of the PR request and it will automagically link them otherwise you can assign it explicitly in the right side pr details panel.
 - Enable the checkbox to [allow maintainer edits](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork) so the branch can be updated for a merge.
-Once you submit your PR, a Zombie Nom Nom 2D team member will review your proposal. We may ask questions or request additional information.
+Once you submit your PR, a Wan team member will review your proposal. We may ask questions or request additional information.
 - We may ask for changes to be made before a PR can be merged, either using [suggested changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request)
 or pull request comments. You can apply suggested changes directly through the UI. You can make any other changes in your fork,
 then commit them to your branch.
@@ -81,6 +81,6 @@ then commit them to your branch.
 
 Congratulations :tada::tada: Thank you :sparkles:!!
 
-Once your PR is merged, your contributions will be publicly visible on the [Zombie NomNom Deployment!!](https://consulting.gxldcptrick.dev/zombie-nomnom-2d/).
+Once your PR is merged, your contributions will be publicly visible on the [Wan Deployment!!](https://consulting.gxldcptrick.dev/wan/).
 
 If you would like to do more it is greatly appreciated!!

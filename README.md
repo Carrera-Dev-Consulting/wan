@@ -1,4 +1,4 @@
-# Zombie Nom Nom 2D
+# Wan
 
 This is a 2d click game to play the zombie nom nom game I had created that was inspired by the rules of Zombie Dice. This is an open source free implementation and is free to use share and distribute. The game is written in the Godot engine and will be maintained by us with any new feature requests welcome so we can add more to this game!!
 
